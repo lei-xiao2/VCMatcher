@@ -1,0 +1,10 @@
+#CertiKSkynetAlert 
+
+We have seen a suspicious flash loan on XSIJ token
+
+Bsc: 0x31bfA137C76561ef848c2af9Ca301b60451CaAC0
+
+Incident caused a ~99% price slippage
+Loss around ~$60k
+
+https://skynet.certik.com/alerts/security/5bb74eb2-fa77-4d88-8bcb-323441601ed2…翻译帖子

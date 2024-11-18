@@ -1,0 +1,7 @@
+SlowMist Security Alert
+
+We have detected that 0x452E253EeB3Bb16e40337D647c01b6c910Aa84B3 has lost 27.3 ETH due to the lack of access control in its uniswapV3SwapCallback function.
+
+https://etherscan.io/address/0x452e253eeb3bb16e40337d647c01b6c910aa84b3…
+
+As always, stay vigilant!翻译帖子

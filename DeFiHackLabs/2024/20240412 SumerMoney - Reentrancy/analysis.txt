@@ -1,0 +1,1 @@
+https://app.blocksec.com/explorer/tx/base/0x619c44af9fedb8f5feea2dcae1da94b6d7e5e0e7f4f4a99352b6c4f5e43a4661…. This is a kind of exchange rate manipulation attack. When minting sdrETH, ETH : sdrETH was about 1:1, but in the end it was 2:1. Why? Because of reentrancy attack. Reentrancy occured in "repayBorrowBehalf" function. Before decreasing borrowed amount,翻译帖子

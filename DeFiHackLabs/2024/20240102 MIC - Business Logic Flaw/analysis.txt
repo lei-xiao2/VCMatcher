@@ -1,0 +1,1 @@
+The #MIC token has a vulnerability that allows the LP holder to claim  LP fees repeatly. One exploit tx: https://bscscan.com/tx/0x316c35d483b72700e6f4984650d217304146b3732bb148e32fa7f8017843eb24…翻译帖子

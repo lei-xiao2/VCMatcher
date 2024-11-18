@@ -1,0 +1,7 @@
+#CertiKInsight    
+
+We have detected an exploit on @GalaxyFoxToken
+
+The exploiter falsely claimed 1.33B GFOX tokens from unverified vulnerable contract 0x11a4 and sold them for 108 WETH (~$330K).
+
+Stay Vigilant!翻译帖子

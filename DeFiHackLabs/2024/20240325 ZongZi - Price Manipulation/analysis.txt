@@ -1,0 +1,1 @@
+Awful! Again, I recommend developers not to use "getAmountsOut" function to get exchange rate. Root cause is in "burnToHolder" function, it used "getAmountsOut" to calculate exchange rate of ZongZi and Bnb. Hacker manipulated this rate by exchanging huge amount of Bnb to ZongZi.翻译帖子

@@ -1,0 +1,2 @@
+Another token exploit(MO token). Hacking tx: https://optimistic.etherscan.io/tx/0x4ec3061724ca9f0b8d400866dd83b92647ad8c943a1c0ae9ae6c9bd1ef789417….
+Hacker just repeated "borrow" and "redeem". Root cause is in borrow function. In "borrow" function, it transfer MO tokens from pair to BURN address. After several "borrow" call, pair contains a few MO tokens.翻译帖子

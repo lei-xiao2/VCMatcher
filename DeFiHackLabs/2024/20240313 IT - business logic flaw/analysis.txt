@@ -1,0 +1,2 @@
+IT token exploited. Hacking tx example : https://bscscan.com/tx/0xb33057f57ce451aa8cbb65508d298fe3c627509cc64a394736dace2671b6dcfa….
+Attack step: transfer 2000 USDT to pancake pair, and call "swap" function of pair, and then "sync". He repeated this several times and gained about $12k. Root cause lies in "transfer" function.翻译帖子

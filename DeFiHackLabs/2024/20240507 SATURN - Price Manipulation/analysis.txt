@@ -1,0 +1,6 @@
+#ChainAegisAlert
+@Saturn_POM you may want a look.
+
+https://bscscan.com/tx/0x948132f219c0a1adbffbee5d9dc63bec676dd69341a6eca23790632cb9475312…
+
+SATURN/WBNB pool was emptied, and lost ~$8K.翻译帖子

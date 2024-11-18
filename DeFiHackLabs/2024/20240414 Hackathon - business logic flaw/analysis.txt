@@ -1,0 +1,6 @@
+Alert! Our SykEye monitoring system has detected a attack on Hackathon token,there is have 2 attack tx,
+which make a total lost ~40K USD
+Now we take a look at tx：
+https://bscscan.com/tx/0xea181f730886ece947e255ab508f5af1d0f569fee3368b651d5dbb28549087b5…
+
+the exploiter call cake-LP skim function  many times:翻译帖子

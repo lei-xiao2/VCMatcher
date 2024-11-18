@@ -1,0 +1,3 @@
+Another hacking.
+https://bscscan.com/tx/0x9983ca8eaee9ee69629f74537eaf031272af75f1e5a7725911d8b06df17c67ca….
+StableCoinVault contract was drained because of "_swap" function. I think "_swap" should be an internal function as it starts with "_", but it's public now.翻译帖子

@@ -1,0 +1,3 @@
+Our system has detected several attack transactions targeting the @Mars_DeFi412 on BSC, resulting loss of  >$100K. 
+As there is no direct method available to contact the team, please reach out to us if you have any questions.  
+Subscribe to Phalcon to monitor attacks and take automatic actions: https://blocksec.com/phalcon翻译帖子

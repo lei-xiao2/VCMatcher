@@ -1,0 +1,1 @@
+No, hacker gained only about $45k. This hacking was done in 2 steps. First tx:https://app.blocksec.com/explorer/tx/bsc/0xc12ccc3bdaf3f0ec1efa09d089a0c1dbad05519e1eb0fa6475ffcc6317cbde4d…. In this tx, he called "placeSellOrder" function, in that function, WILL tokens are swapped to USDT and swap amount depends on order size. After this, he exchanged some USDT to翻译帖子

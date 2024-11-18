@@ -1,0 +1,7 @@
+Today @Penpiexyz_io was exploited, resulting in a loss of $>16M, including  $7,879,029.18 wstETH, $2,517,458.57 sUSDe, $3,409,021.04 agETH, $2,226,244.80 rswETH and four other Pendle-related YT tokens.
+
+The root cause is the introduction of an evil market that was used to inflates the staking balance to claim unwarranted rewards.
+
+Here is the related tx/address:
+https://etherscan.io/tx/0x56e09abb35ff12271fdb38ff8a23e4d4a7396844426a94c4d3af2e8b7a0a2813…
+https://etherscan.io/address/0x7a2f4d625fb21f5e51562ce8dc2e722e12a61d1b…翻译帖子

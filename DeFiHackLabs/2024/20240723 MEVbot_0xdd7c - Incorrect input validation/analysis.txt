@@ -1,0 +1,7 @@
+SlowMist Security Alert
+
+We have detected that 0x0000000000e715268e0fe41ced1dd101fc696355 has lost $19k due to the lack of access control in the uniswapV3SwapCallback function of his MEV bot contract: 0xdd7c2987686b21f656f036458c874d154a923685.
+
+https://etherscan.io/address/0xdd7c2987686b21f656f036458c874d154a923685…
+
+As always, stay vigilant!翻译帖子

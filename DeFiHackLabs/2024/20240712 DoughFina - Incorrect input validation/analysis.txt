@@ -1,0 +1,4 @@
+#CertiKInsight 
+@DoughFina has been exploited for ~$1.8m which is held in EOA 0x2913d90d94c9833b11a3e77f136da03075c04a0f 
+
+The root cause is due to the lack of validation / unvalidated calldata in the ConnectorDeleverageParaswap contract 0x9f54e8eAa9658316Bb8006E03FFF1cb191AafBE6

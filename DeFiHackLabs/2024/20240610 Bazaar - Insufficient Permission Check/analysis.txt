@@ -1,0 +1,4 @@
+$1.5M was hacked from the liquidity pool of @YOLO_Blast on @hiBazaar right after the UwU incident today. 
+
+The root cause is no permission check in the `exitPool` function, allowing anyone to impersonate liquidity providers and drain the pool 
+https://blastscan.io/tx/0x7fdd140f7631f62d62f7256ee4a38af51a4723ad5d66adc9b9685bf78f750f2d…翻译帖子

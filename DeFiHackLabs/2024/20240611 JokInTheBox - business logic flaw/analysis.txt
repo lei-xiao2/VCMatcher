@@ -1,0 +1,1 @@
+https://app.blocksec.com/explorer/tx/eth/0xe8277ef6ba8611bd12dc5a6e7ca4b984423bc0b3828159f83b466fdcf4fe054f…. JokInTheBoxStaking exploited. Hacker could unstake several times because "unstake" function doesn't check "unstaked" value. What an awful developer!翻译帖子

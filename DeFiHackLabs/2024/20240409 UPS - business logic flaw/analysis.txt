@@ -1,0 +1,1 @@
+UPS token exploited. https://app.blocksec.com/explorer/tx/bsc/0xd03702e17171a32464ce748b8797008d59e2dbcecd3b3847d5138414566c886d…. UPS token has an awful transfer implementation. When transferring tokens to pancake pair, it burns tokens at the pair, and calls "sync" function. Using that hacker could reduce UPS reserve of pancake pair. He repeated transferring翻译帖子

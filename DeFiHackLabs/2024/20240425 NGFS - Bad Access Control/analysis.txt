@@ -1,0 +1,7 @@
+#CertiKInsight 
+
+We have seen an incident on a token named FENGSHOU (NGFS)  shortly after deployment
+
+~$191k has been affected
+
+The vulnerability lies in a public `delegateCallReserves` function which allows the attacker to set an arbitrary address to a UniSwapV2 proxy.翻译帖子

@@ -1,0 +1,8 @@
+@SSS_HQ exploit (whitehat rescue) root cause was simple transfer logic bug.
+
+transferFrom(me, me, amount) will multiply your balance
+
+They audited token contract. Audit catch only 1 low issue 
+
+SSS token is non upgradable this can't be fix. 
+Don't swap and remove all liquidity.翻译帖子

@@ -1,0 +1,34 @@
+73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212201edfc81284bde88a2d2c5d665eedb38e7aeb2cbfe6b027ffa878113b35f29f9364736f6c634300080c0033
+00000: PUSH20 0x0000000000000000000000000000000000000000
+00015: ADDRESS
+00016: EQ
+00017: PUSH1 0x80
+00019: PUSH1 0x40
+0001b: MSTORE
+0001c: PUSH1 0x00
+0001e: DUP1
+0001f: REVERT
+00020: INVALID
+00021: LOG2
+00022: PUSH5 0x6970667358
+00028: opcode 0x22 not defined
+00029: SLT
+0002a: KECCAK256
+0002b: opcode 0x1e not defined
+0002c: opcode 0xdf not defined
+0002d: opcode 0xc8 not defined
+0002e: SLT
+0002f: DUP5
+00030: opcode 0xbd not defined
+00031: opcode 0xe8 not defined
+00032: DUP11
+00033: opcode 0x2d not defined
+00034: opcode 0x2c not defined
+00035: opcode 0x5d not defined
+00036: PUSH7 0x5eedb38e7aeb2c
+0003e: opcode 0xbf not defined
+0003f: opcode 0xe6 not defined
+00040: opcode 0xb0 not defined
+00041: opcode 0x27 not defined
+00042: SELFDESTRUCT
+00043: opcode 0xa8 not defined

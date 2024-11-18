@@ -1,0 +1,1 @@
+Oh, this hacking is due to reentrance. As you can see, in "flashloan" function, "lendRUSDY" is called again, could get more "lendTokens" due to manipulated exchange rate. I think when implementing flashloan, you'd better add reentrancy check.翻译帖子

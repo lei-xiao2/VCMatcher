@@ -1,0 +1,1 @@
+Alert! Our SkyEye system has detected there was an attack that made an exploit contract: https://etherscan.io/address/0x2ffdce5f0c09a8ee3a568bc01f35894b2d77a6d6…, The hacker made a profit of $40K from this attack. Attack Transaction:https://etherscan.io/tx/0xcf834aff4de9992f5da9c443600dad9c6277a8a00de5007842fece51564992db…翻译帖子

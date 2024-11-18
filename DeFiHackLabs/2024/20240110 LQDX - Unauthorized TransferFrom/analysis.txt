@@ -1,0 +1,12 @@
+SlowMist Security Alert
+
+We detected potential suspicious activity related to @_LiquidCrypto. Please revoke approval for the following addresses ASAP:
+
+BSC:  0x7aF28f224CF764e308463eDe2c34276d082092d4
+AVAX:  0xf6b9EaFfBc8aC294102f93A661E3075C721f7a6a
+ETH:  0x364f17A23AE4350319b7491224d10dF5796190bC
+ONUS:  0xC4469C21F3BD37dFfA1051B1397858AFF80D7A44
+JFIN:  0xFCb9686F9e07A492Db39D799B19ba84f870102D3
+MANTLE:  0xBeaDcB195D73C1EB3a8B1672f76392574A7D7B72
+
+And @_LiquidCrypto please DM us.

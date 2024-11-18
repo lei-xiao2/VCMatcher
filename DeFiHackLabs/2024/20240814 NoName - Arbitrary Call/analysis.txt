@@ -1,0 +1,2 @@
+Oh, no, who made this router?
+https://app.blocksec.com/explorer/tx/eth/0x54f659773dae6e01f83184d4b6d717c7f1bb71c0aa59e8c8f4a57c25271424b3…. "transferFee" function has really basic vulnerability.翻译帖子

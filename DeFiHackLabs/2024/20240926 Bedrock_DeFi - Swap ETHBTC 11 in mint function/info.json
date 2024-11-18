@@ -1,0 +1,11 @@
+{
+    "name": "Bedrock_DeFi",
+    "time": "20240926",
+    "loss": "27.83925883 BTC (~$1.7M USD)",
+    "type": "Swap ETH/BTC 1/1 in mint function",
+    "attack contract": "https://etherscan.io/address/0x0C8da4f8B823bEe4D5dAb73367D45B5135B50faB",
+    "attacker": "https://etherscan.io/address/0x2bFB373017349820dda2Da8230E6b66739BE9F96",
+    "vulnerable contract": "https://etherscan.io/address/0x047D41F2544B7F63A8e991aF2068a363d210d6Da",
+    "tx": "https://etherscan.io/tx/0x725f0d65340c859e0f64e72ca8260220c526c3e0ccde530004160809f6177940",
+    "information": "https://x.com/certikalert/status/1839403126694326374"
+}

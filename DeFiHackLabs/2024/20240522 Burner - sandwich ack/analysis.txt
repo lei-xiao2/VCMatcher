@@ -1,0 +1,1 @@
+https://app.blocksec.com/explorer/tx/eth/0x3bba4fb6de00dd38df3ad68e51c19fe575a95a296e0632028f101c5199b6f714…, Burner contract drained because of sandwich attack.翻译帖子

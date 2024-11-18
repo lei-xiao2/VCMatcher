@@ -1,0 +1,3 @@
+We detected a reentrancy exploit related to @NBLGAME. 
+
+Please stay vigilant!翻译帖子

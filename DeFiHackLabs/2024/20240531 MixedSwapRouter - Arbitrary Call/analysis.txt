@@ -1,0 +1,9 @@
+#ChainAegisAlert
+
+The #MixedSwapRouter contract on #Arbitrum was attacked, lost ～293K $WINR, worth ～$11K.
+
+Attacker:
+0xfeef112831cc8f790abe71b4b196c220ee26ecf3
+
+Please revoke any approvals to the below contract ASAP!!!
+0xe3e98241cb99af7a452e94b9cf219aaa766e0869翻译帖子

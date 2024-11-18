@@ -1,0 +1,3 @@
+Our system detected that @PikeFinance was attacked hours ago, resulting in a loss of 479 Ether (over $1.4 million): https://app.blocksec.com/explorer/tx/eth/0xe2912b8bf34d561983f2ae95f34e33ecc7792a2905a3e317fcc98052bce66431…
+
+Subscribe to Phalcon to monitor attacks and take automatic actions: https://blocksec.com/phalcon翻译帖子

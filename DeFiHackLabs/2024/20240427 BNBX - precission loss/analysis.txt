@@ -1,0 +1,9 @@
+#ChainAegisAlert
+$BNBX on #BNBChain was attacked, lost 75.47 $WBNB, worth ~$45K.
+
+Revoke any approvals to 0x389a9ae29fbe53cca7bc8b7a4d9d0a04078e1c24 ASAP!!!
+
+Attacker:
+0x123fa25c574bb3158ecf6515595932a92a1da510
+
+For more analysis, please use: https://app.chainaegis.com翻译帖子

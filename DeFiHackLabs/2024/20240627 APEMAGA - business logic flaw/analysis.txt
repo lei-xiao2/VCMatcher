@@ -1,0 +1,10 @@
+#ChainAegisAlert
+
+$APEMAGA on #Ethereum is suspected to be attacked, with a loss of ~$32K.
+
+Attacker:
+0xb297735e9fb3e695ccce3963bfe042f318901ea0
+
+Attack transaction:
+https://app.chainaegis.com/result?type=eth&search=0xb310d76120a8a1124533e49d6e91721624435b0df240b54c897307205df06105…
+Loss 59,632,616 $APEMAGA, Converted to 9.37 $ETH.翻译帖子

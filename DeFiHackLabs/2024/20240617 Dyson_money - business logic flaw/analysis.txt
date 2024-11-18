@@ -1,0 +1,2 @@
+Hacker deposited some tokens into pool, retained almost all lp tokens. After that called "harvest" function, then "withdraw" function. He could get almost all rewards. Deposit tx:https://app.blocksec.com/explorer/tx/bsc/0x86710f1f6833391c59e1a8d3fc21bbe6af95c8de43bd45219e670b5ae36d0924….
+Hacking tx:https://app.blocksec.com/explorer/tx/bsc/0xbac614f4d103939a9611ca35f4ec9451e1e98512d573c822fbff70fafdbbb5a0….翻译帖子

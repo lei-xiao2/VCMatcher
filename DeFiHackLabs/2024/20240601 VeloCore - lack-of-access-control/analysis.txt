@@ -1,0 +1,3 @@
+Analysis of Velocore security incident:
+
+The LP Pool lacks permission verification. The attacker directly invoke the velocore__execute function (0xec378808) of the LP contract with a carefully constructed parameter to manipulate the feeMultiplier parameter of the contract.翻译帖子

@@ -1,0 +1,3 @@
+ALERT! Our system has detected a series of attack transactions (probably launched by 4 different attackers) lasting for hours, targeting @unizen_io, and resulting in a loss of over $2.6 million. 
+
+Token approvals for the corresponding contracts (e.g., 0xd3f64baa732061f8b3626ee44bab354f854877ac) need to be revoked ASAP.翻译帖子

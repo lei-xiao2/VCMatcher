@@ -1,0 +1,4 @@
+Alert! Our  SkyEye system has detected there was an attack to @NovaXM2E on BNB Smart Chain, The hacker made a profit of 24,971 from this attack.  The attacker obtained excess staked funds by manipulating prices.
+
+Attack Transaction:
+https://bscscan.com/tx/0xb1ad1188d620746e2e64785307a7aacf2e8dbda4a33061a4f2fbc9721048e012…翻译帖子

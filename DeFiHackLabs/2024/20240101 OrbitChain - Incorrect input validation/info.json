@@ -1,0 +1,11 @@
+{
+    "name": "OrbitChain",
+    "time": "20240101",
+    "loss": "~81M",
+    "type": "Incorrect",
+    "attack contract": "",
+    "attacker": "https://etherscan.io/address/0x9263e7873613ddc598a701709875634819176aff",
+    "vulnerable contract": "https://etherscan.io/address/0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a",
+    "tx": "// https://explorer.phalcon.xyz/tx/eth/0x9d1351ca4ede8b36ca9cd9f9c46e3b08890d13d94dfd3074d9bb66bbcc2629b1",
+    "information": "https://blog.solidityscan.com/orbit-chain-hack-analysis-b71c36a54a69"
+}

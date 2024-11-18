@@ -1,0 +1,8 @@
+Looks like it could be a Gamma issue, since funds came from a Gamma contract. This seems to be an exploit on Gamma’s hypervisor contract, rather than algebra itself. Still being exploited up to $3.4M.
+
+That’s the hacker’s address:
+0x5351536145610aa448a8bf85ba97c71caf31909c
+
+There is constant flow to and from the hypervisor contract (gamma’s strategy manager) and some of the “attacked” algebra pools were not entirely drained.
+
+Source: @lobsters_daily / @leviathan_news翻译帖子

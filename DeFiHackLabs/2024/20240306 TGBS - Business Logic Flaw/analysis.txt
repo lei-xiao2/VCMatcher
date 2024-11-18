@@ -1,0 +1,1 @@
+TGBS token has vulnerable "transfer" function. Hacker was able to drain pair just calling "transfer" several times.翻译帖子

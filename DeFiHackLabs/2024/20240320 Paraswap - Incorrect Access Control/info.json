@@ -1,0 +1,1 @@
+{"name": "Paraswap", "time": "20240320", "loss": "~24K", "type": "Incorrect", "attack contract": "", "attacker": "", "vulnerable contract": "", "tx": "https://phalcon.blocksec.com/explorer/tx/eth/0x35a73969f582872c25c96c48d8bb31c23eab8a49c19282c67509b96186734e60", "information": "https://medium.com/neptune-mutual/analysis-of-the-paraswap-exploit-1f97c604b4fe"}

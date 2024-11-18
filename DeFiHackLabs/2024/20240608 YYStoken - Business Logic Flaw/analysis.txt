@@ -1,0 +1,1 @@
+YYS token hacked. https://app.blocksec.com/explorer/tx/bsc/0x397a09af6494c0bfcd89e010f5dd65d90f3ee1cf1ff813ce5b0c1d42a1c8dec9…. It's similar to STM token, used "sell" function to drain pool. He swapped large amount of USDT to YYS, and in first "sell" function, he could remove some liquidity with a few YYS tokens, decrease k(x*y) value. Then swapped YYS to USDT翻译帖子

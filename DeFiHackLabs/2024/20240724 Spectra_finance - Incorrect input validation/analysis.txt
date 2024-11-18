@@ -1,0 +1,5 @@
+Spectra was hacked => $550K loss
+
+The root cause is an arbitrary call in their router contract, which allows the attacker to drain all tokens approved to that contract.
+
+https://app.blocksec.com/explorer/tx/eth/0x491cf8b2a5753fdbf3096b42e0a16bc109b957dc112d6537b1ed306e483d0744?line=7…翻译帖子

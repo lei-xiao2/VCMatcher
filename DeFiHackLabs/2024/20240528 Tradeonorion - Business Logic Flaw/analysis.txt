@@ -1,0 +1,1 @@
+Since @TradeOnOrion has upgraded their vulnerable contract, we can provide a detailed explanation of this exploit now. The root cause is the liabilities for a user in not correctly updated  when remove liability for this user.翻译帖子

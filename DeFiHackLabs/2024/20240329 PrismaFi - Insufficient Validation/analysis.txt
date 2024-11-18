@@ -1,0 +1,4 @@
+The  @PrismaFi attack lead to lost almost ~11M USD
+,this is our root cause analysis
+[1/5]The issue happens in the contract MigrateTroveZap. The MigrateTroveZap contract has the ability to automate migrating to a different version of a Trove Manager for the same collateral.
+The contract is expected to support users to migrate a trove to another TroveManager for the same collateral. The expected execution flow is when function `MigrateTroveZap#migrateTrove()`, the contract calls to `debtToken.flashloan()` (debtToken in this case is `mkUSD` token) to trigger the callback function `MigrateTroveZap#onFlashloan()`.翻译帖子

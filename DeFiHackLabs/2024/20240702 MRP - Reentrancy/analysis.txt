@@ -1,0 +1,2 @@
+MRP token exploit: https://app.blocksec.com/explorer/tx/bsc/0x4353a6d37e95a0844f511f0ea9300ef3081130b24f0cf7a4bd1cae26ec393101….
+Root cause is reentrance. There's no reentrancy check in victim contract, so hacker could call receive() function in _transfer() function, thus get much more MRP tokens, then drained all BNB in victim contract.翻译帖子

@@ -1,0 +1,8 @@
+#ChainAegisAlert
+
+The contract 0x32f9 (not open source) on #BNBChain was attacked, resulting in a loss of 1 million $TGC, ~$36K.
+
+Attacker:
+0x36fb87c3e65ec608d37e38bd556fb6ebdb3d8a39
+
+Attack transaction:

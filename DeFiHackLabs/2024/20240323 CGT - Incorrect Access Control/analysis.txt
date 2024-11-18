@@ -1,0 +1,3 @@
+Curio Governance Token @curio_invest was exploited and over 996B $CGT was minted on Ethereum
+
+hacker address: 0xdaAa6294C47b5743BDafe0613d1926eE27ae8cf5

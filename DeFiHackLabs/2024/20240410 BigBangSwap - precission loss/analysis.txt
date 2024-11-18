@@ -1,0 +1,11 @@
+#ChainAegisAlert
+@BigBangSwap #BNBChain you may want a look, the contract was attacked and lost ~$25K
+
+Attacker:
+0xc1b6f9898576d722dbf604aaa452cfea3a639c59
+
+Attacker address analysis:
+https://app.chainaegis.com/result?type=bsc&search=0xc1b6f9898576d722dbf604aaa452cfea3a639c59…
+
+Attack transaction (one of all):
+https://bscscan.com/tx/0x94055664287a565d4867a97ba6d5d2e28c55d10846e3f83355ba84bd1b9280fc…翻译帖子

@@ -1,0 +1,1 @@
+ATM toke hacking. https://bscscan.com/tx/0xee10553c26742bec9a4761fd717642d19012bab1704cbced048425070ee21a8a…. Bad transfer implementation. In transfer function, ATM exchanges ATM tokens in its address to WBNB, and then exchange  WBNB to BSC-USD. Because of this hacker could do sandwich attack. You have to be careful when you implement new token翻译帖子

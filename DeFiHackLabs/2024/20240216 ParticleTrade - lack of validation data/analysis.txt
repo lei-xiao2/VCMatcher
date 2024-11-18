@@ -1,0 +1,2 @@
+ALERT! Our system has detected attacks targeting the smart contract of @particle_trade 
+on #Ethereum, please take action ASAP!翻译帖子

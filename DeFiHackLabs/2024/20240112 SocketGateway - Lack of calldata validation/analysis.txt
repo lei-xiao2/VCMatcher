@@ -1,0 +1,5 @@
+Socket protocol @SocketDotTech was under a call injection attack with a loss of ~$3.3M.
+
+This attack was mainly due to an unsafe call in the performAction function. It did not consider the case where the caller transfers in 0 WETH, allowing the caller to specify other functions in the call and still pass the balance check. The attacker constructed calldata to call transferfrom() of arbitrary tokens, transferring tokens approved to the contract by other users to the attacker's address.
+
+The stolen funds are held at 0x50DF5a2217588772471B84aDBbe4194A2Ed39066.翻译帖子

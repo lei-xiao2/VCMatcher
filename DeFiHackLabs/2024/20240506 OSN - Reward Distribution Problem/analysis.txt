@@ -1,0 +1,6 @@
+SlowMist Security Alert
+
+We detected potential suspicious activity related to $OSN
+https://bscscan.com/address/0x810f4c6ae97bcc66da5ae6383cc31bd3670f6d13…
+
+As always, stay vigilant!翻译帖子

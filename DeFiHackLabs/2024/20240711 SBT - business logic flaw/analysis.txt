@@ -1,0 +1,1 @@
+It's because of wrong price calculation. Also, to call "_Start" function, hacker transferred 950000 USDT to pool.翻译帖子

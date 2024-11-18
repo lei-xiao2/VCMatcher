@@ -1,0 +1,24 @@
+6080604052600080fdfea265627a7a7231582033d3cad52a2d4f1968c1543e36275f152dabd5ef256bd79233acbb78d15a75ff64736f6c63430005100032
+00000: PUSH1 0x80
+00002: PUSH1 0x40
+00004: MSTORE
+00005: PUSH1 0x00
+00007: DUP1
+00008: REVERT
+00009: INVALID
+0000a: LOG2
+0000b: PUSH6 0x627a7a723158
+00012: KECCAK256
+00013: CALLER
+00014: opcode 0xd3 not defined
+00015: opcode 0xca not defined
+00016: opcode 0xd5 not defined
+00017: opcode 0x2a not defined
+00018: opcode 0x2d not defined
+00019: opcode 0x4f not defined
+0001a: NOT
+0001b: PUSH9 0xc1543e36275f152dab
+00025: opcode 0xd5 not defined
+00026: opcode 0xef not defined
+00027: opcode 0x25 not defined
+00028: PUSH12 0xd79233acbb78d15a75ff6473

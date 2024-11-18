@@ -1,0 +1,5 @@
+ALERT! Our system has detected a series of attack transactions targeting @MetaDragonDao's contract on #BSC, resulting in a loss of $180K. We have DMed the project but have not received a reply yet.
+
+It appears the exploit cannot continue as the corresponding P404NFT tokens (0x336a) have been burnt. Please take action ASAP and avoid minting more of these tokens!
+
+Subscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   https://blocksec.com/phalcon翻译帖子

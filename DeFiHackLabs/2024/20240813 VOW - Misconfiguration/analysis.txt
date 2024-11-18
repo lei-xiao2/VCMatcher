@@ -1,0 +1,25 @@
+Subject: Update on Recent Market Incident and Ongoing Efforts
+
+Dear Community,
+
+We want to clarify the recent incident that has occurred while our team was testing the USD rate setter function of the v$ contract in order to mint v$ for the new lending pool and oracle functions.
+
+The USD rate was amended and 1m VOW was sent to the contract to test that everything was working as expected. This created, as expected v$100m, which is subsequently to be burned. 
+
+This time gap of making this change, testing, and reverting was around 15-30 seconds. 
+
+During this process, an unexpected event occurred where a bot acquired around 20 million VOW tokens from Uniswap and sent them to the contract resulting in nearly v$2 billion being created. The bot subsequently then sold the $2 billion v$ into the Uniswap pool.
+
+This situation has caused a temporary disruption, and we understand the concerns this raises within the community. We want to assure you that we are fully committed to address this immediately and are actively working to resolve market conditions.
+
+Our team is focused on mitigating the impact of this incident and restoring normal operations as quickly as possible. We are also implementing additional safeguards to prevent similar issues from occurring in the future. 
+
+We are considering the position carefully and what will happen next. There are several options on the table, all result in solving the situation and forward momentum of the project.
+
+We greatly appreciate your patience and understanding during this time. Please keep calm as we continue to address the situation with the urgency it requires. We will provide further updates as soon as more information becomes available.
+
+Thank you for your continued support and trust in the VOW project. 
+
+Best regards.
+
+HQ翻译帖子

@@ -1,0 +1,3 @@
+ALERT! Our system has detected that #ARK on BSC was attacked hours ago due to the public pair issue, the loss was ~ 348 WBNB.
+
+https://phalcon.blocksec.com/explorer/tx/bsc/0xe8b0131fa14d0a96327f6b5690159ffa7650d66376db87366ba78d91f17cd677…翻译帖子

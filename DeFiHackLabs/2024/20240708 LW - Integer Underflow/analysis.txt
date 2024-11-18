@@ -1,0 +1,1 @@
+https://app.blocksec.com/explorer/tx/bsc/0x96a955304fed48a8fbfb1396ec7658e7dc42b7c140298b80ce4206df34f40e8d…. Oh, how did hacker transfer LW tokens from LW contract? When did LW contract approve to hacker contract? I think it's not because of approve, root cause is underflow. As you can see, compiler version is 0.76 and "transferFrom" doesn't check underflow.翻译帖子

@@ -1,0 +1,1 @@
+#ancilia_alerts A token name is iVest DAO https://bscscan.com/token/0x786fcf76dc44b29845f284b81f5680b6c47302c6… was attacked and it lost about 172k.  Tx https://bscscan.com/tx/0x12f27e81e54684146ec50973ea94881c535887c2e2f30911b3402a55d67d121d…翻译帖子

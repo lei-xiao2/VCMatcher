@@ -1,0 +1,670 @@
+20240814 NoName - Arbitrary Call, 爬合约出问题了
+20240814 NoName - Arbitrary Call, 读合约出错了
+20240714 Minterest - Reentrancy, 读合约里的网址出问题了
+20240618 INcufi - business logic flaw, 爬合约出问题了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240616 WIFCOIN_ETH - business logic flaw, 爬合约出问题了
+20240616 WIFCOIN_ETH - business logic flaw, 读合约出错了
+20240616 Crb2 - business logic flaw, 爬合约出问题了
+20240616 Crb2 - business logic flaw, 读合约出错了
+20240611 JokInTheBox - business logic flaw, 爬合约出问题了
+20240611 JokInTheBox - business logic flaw, 读合约出错了
+20240610 Bazaar - Insufficient Permission Check, 爬合约出问题了
+20240610 Bazaar - Insufficient Permission Check, 读合约出错了
+20240608 YYStoken - Business Logic Flaw, 爬合约出问题了
+20240608 YYStoken - Business Logic Flaw, 读合约出错了
+20240606 SteamSwap - Logic Flaw, 爬合约出问题了
+20240606 SteamSwap - Logic Flaw, 读合约出错了
+20240606 MineSTM - Business Logic Flaw, 爬合约出问题了
+20240606 MineSTM - Business Logic Flaw, 读合约出错了
+20240601 VeloCore - lack-of-access-control, 读合约里的网址出问题了
+20240531 MixedSwapRouter - Arbitrary Call, 读合约里的网址出问题了
+20240526 NORMIE - Business Logic Flaw, 读合约里的网址出问题了
+20240522 Burner - sandwich ack, 读合约里的网址出问题了
+20240516 TCH - Signature Malleability Vulnerability, 读合约里的网址出问题了
+20240514 Sonne Finance - Precision loss, 读合约里的网址出问题了
+20240424 XBridge - Logic Flaw, 爬合约出问题了
+20240424 XBridge - Logic Flaw, 读合约出错了
+20240424 YIEDL - Input Validation, 读合约里的网址出问题了
+20240416 MARS - Bad Reflection, 读合约里的网址出问题了
+20240401 OpenLeverage - Reentrancy, 爬合约出问题了
+20240401 OpenLeverage - Reentrancy, 读合约出错了
+20240329 ETHFIN - Price Manipulation, 爬合约出问题了
+20240329 ETHFIN - Price Manipulation, 读合约出错了
+20240329 PrismaFi - Insufficient Validation, 爬合约出问题了
+20240329 PrismaFi - Insufficient Validation, 读合约出错了
+20240328 LavaLending - Business Logic Flaw, 爬合约出问题了
+20240328 LavaLending - Business Logic Flaw, 读合约出错了
+20240325 ZongZi - Price Manipulation, 爬合约出问题了
+20240325 ZongZi - Price Manipulation, 读合约出错了
+20240323 CGT - Incorrect Access Control, 爬合约出问题了
+20240323 CGT - Incorrect Access Control, 读合约出错了
+20240321 SSS - Token Balance Doubles on Transfer to self, 爬合约出问题了
+20240321 SSS - Token Balance Doubles on Transfer to self, 读合约出错了
+20240324 ARK - business logic flaw, 爬合约出问题了
+20240324 ARK - business logic flaw, 读合约出错了
+20240320 Paraswap - Incorrect Access Control, 爬合约出问题了
+20240320 Paraswap - Incorrect Access Control, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Fri Sep  6 19:00:56 2024
+------------------------------------------------------------------------------------------------
+20240816 Zenterest - Price Out Of Date, 爬合约出问题了
+20240813 VOW - Misconfiguration, 爬合约出问题了
+20240812 iVest - Business logic flaw, 爬合约出问题了
+20240714 Minterest - Reentrancy, 读合约里的网址出问题了
+20240618 INcufi - business logic flaw, 爬合约出问题了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240601 VeloCore - lack-of-access-control, 读合约里的网址出问题了
+20240531 MixedSwapRouter - Arbitrary Call, 读合约里的网址出问题了
+20240529 SCROLL - Integer Underflow, 爬合约出问题了
+20240529 MetaDragon - Lack of Access Control, 爬合约出问题了
+20240528 Tradeonorion - Business Logic Flaw, 爬合约出问题了
+20240528 EXcommunity - Business Logic Flaw, 爬合约出问题了
+20240527 RedKeysCoin - Weak RNG, 爬合约出问题了
+20240526 NORMIE - Business Logic Flaw, 爬合约出问题了
+20240526 NORMIE - Business Logic Flaw, 读合约里的网址出问题了
+20240522 Burner - sandwich ack, 读合约里的网址出问题了
+20240516 TCH - Signature Malleability Vulnerability, 读合约里的网址出问题了
+20240514 Sonne Finance - Precision loss, 读合约里的网址出问题了
+20240510 GFOX - lack of access control, 爬合约出问题了
+20240507 SATURN - Price Manipulation, 爬合约出问题了
+20240424 XBridge - Logic Flaw, 读合约里的网址出问题了
+20240424 YIEDL - Input Validation, 读合约里的网址出问题了
+20240416 MARS - Bad Reflection, 读合约里的网址出问题了
+20240415 Chainge - Input Validation, 爬合约出问题了
+20240401 OpenLeverage - Reentrancy, 读合约里的网址出问题了
+20240329 PrismaFi - Insufficient Validation, 读合约里的网址出问题了
+20240328 LavaLending - Business Logic Flaw, 读合约里的网址出问题了
+20240325 ZongZi - Price Manipulation, 读合约里的网址出问题了
+20240321 SSS - Token Balance Doubles on Transfer to self, 爬合约出问题了
+20240321 SSS - Token Balance Doubles on Transfer to self, 读合约出错了
+20240324 ARK - business logic flaw, 爬合约出问题了
+20240324 ARK - business logic flaw, 读合约出错了
+20240320 Paraswap - Incorrect Access Control, 爬合约出问题了
+20240320 Paraswap - Incorrect Access Control, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Fri Sep  6 19:34:02 2024
+------------------------------------------------------------------------------------------------
+20240816 Zenterest - Price Out Of Date, 爬合约出问题了
+20240814 NoName - Arbitrary Call, 爬合约出问题了
+20240801 Convergence - Incorrect input validation, 爬合约出问题了
+20240702 MRP - Reentrancy, 爬合约出问题了
+20240618 INcufi - business logic flaw, 爬合约出问题了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240616 WIFCOIN_ETH - business logic flaw, 爬合约出问题了
+20240516 TCH - Signature Malleability Vulnerability, 爬合约出问题了
+20240514 Sonne Finance - Precision loss, 爬合约出问题了
+20240514 PredyFinance - Reentrancy, 爬合约出问题了
+20240512 TGC - Business Logic Flaw, 爬合约出问题了
+20240510 GFOX - lack of access control, 爬合约出问题了
+20240401 OpenLeverage - Reentrancy, 爬合约出问题了
+20240321 SSS - Token Balance Doubles on Transfer to self, 爬合约出问题了
+20240321 SSS - Token Balance Doubles on Transfer to self, 读合约出错了
+20240311 Binemon - precission-loss, 爬合约出问题了
+20240311 Binemon - precission-loss, 读合约出错了
+20240309 Juice - Business Logic Flaw, 爬合约出问题了
+20240309 Juice - Business Logic Flaw, 读合约出错了
+20240309 UnizenIO - unverified external call, 爬合约出问题了
+20240309 UnizenIO - unverified external call, 读合约出错了
+20240307 GHT - Business Logic Flaw, 爬合约出问题了
+20240307 GHT - Business Logic Flaw, 读合约出错了
+20240221 DeezNutz 404 - lack of validation, 爬合约出问题了
+20240221 DeezNutz 404 - lack of validation, 读合约出错了
+20240221 GAIN - bad function implementation, 爬合约出问题了
+20240221 GAIN - bad function implementation, 读合约出错了
+20240220 EGGX - reentrancy, 爬合约出问题了
+20240220 EGGX - reentrancy, 读合约出错了
+20240215 Babyloogn - reentrancy, 爬合约出问题了
+20240215 Babyloogn - reentrancy, 读合约出错了
+20240117 BmiZapper - Arbitrary external call vulnerability, 爬合约出问题了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240110 Freedom - Loss of Precision, 爬合约出问题了
+20240110 Freedom - Loss of Precision, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 11:35:20 2024
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 11:35:35 2024
+------------------------------------------------------------------------------------------------
+20240816 Zenterest - Price Out Of Date, 爬合约出问题了
+20240618 INcufi - business logic flaw, 爬合约出问题了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240527 RedKeysCoin - Weak RNG, 爬合约出问题了
+20240510 GFOX - lack of access control, 爬合约出问题了
+20240510 TSURU - Insufficient Validation, 爬合约出问题了
+20240508 GPU - self transfer, 爬合约出问题了
+20240507 SATURN - Price Manipulation, 爬合约出问题了
+20240506 OSN - Reward Distribution Problem, 爬合约出问题了
+20240430 Yield - Business Logic Flaw, 爬合约出问题了
+20240430 PikeFinance - Uninitialized Proxy, 爬合约出问题了
+20240427 BNBX - precission loss, 爬合约出问题了
+20240425 NGFS - Bad Access Control, 爬合约出问题了
+20240424 XBridge - Logic Flaw, 爬合约出问题了
+20240424 YIEDL - Input Validation, 爬合约出问题了
+20240422 Z123 - price manipulation, 爬合约出问题了
+20240420 Rico - Arbitrary Call, 爬合约出问题了
+20240419 HedgeyFinance - Logic Flaw, 爬合约出问题了
+20240417 UnverifiedContr_0x00C409 - unverified external call, 爬合约出问题了
+20240416 SATX - Logic Flaw, 爬合约出问题了
+20240416 MARS - Bad Reflection, 爬合约出问题了
+20240415 GFA - business-logic-flaw, 爬合约出问题了
+20240415 Chainge - Input Validation, 爬合约出问题了
+20240414 Hackathon - business logic flaw, 爬合约出问题了
+20240412 FIL314 - Insufficient Validation And Price Manipulation, 爬合约出问题了
+20240412 SumerMoney - Reentrancy, 爬合约出问题了
+20240412 GROKD - lack of access control, 爬合约出问题了
+20240410 BigBangSwap - precission loss, 爬合约出问题了
+20240409 UPS - business logic flaw, 爬合约出问题了
+20240408 SQUID - sandwich attack, 爬合约出问题了
+20240401 ATM - business logic flaw, 爬合约出问题了
+20240320 Paraswap - Incorrect Access Control, 爬合约出问题了
+20240313 IT - business logic flaw, 爬合约出问题了
+20240309 Juice - Business Logic Flaw, 爬合约出问题了
+20240309 Juice - Business Logic Flaw, 读合约出错了
+20240306 ALP - Public internal function, 爬合约出问题了
+20240222 SwarmMarkets - lack of validation, 爬合约出问题了
+20240220 EGGX - reentrancy, 爬合约出问题了
+20240220 EGGX - reentrancy, 读合约出错了
+20240117 BmiZapper - Arbitrary external call vulnerability, 爬合约出问题了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240112 WiseLending - Bad HealthFactor Check, 爬合约出问题了
+20240110 Freedom - Loss of Precision, 爬合约出问题了
+20240110 Freedom - Loss of Precision, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 15:06:11 2024
+------------------------------------------------------------------------------------------------
+20240816 Zenterest - Price Out Of Date, 爬合约出问题了
+20240711 GAX - Lack of access control, 爬合约出问题了
+20240702 MRP - Reentrancy, 爬合约出问题了
+20240618 INcufi - business logic flaw, 爬合约出问题了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240608 YYStoken - Business Logic Flaw, 爬合约出问题了
+20240522 Burner - sandwich ack, 爬合约出问题了
+20240516 TCH - Signature Malleability Vulnerability, 爬合约出问题了
+20240508 GPU - self transfer, 爬合约出问题了
+20240507 SATURN - Price Manipulation, 爬合约出问题了
+20240506 OSN - Reward Distribution Problem, 爬合约出问题了
+20240305 Woofi - Price Manipulation, 爬合约出问题了
+20240228 Seneca - Arbitrary External Call Vulnerability, 爬合约出问题了
+20240228 SMOOFSStaking - Reentrancy, 爬合约出问题了
+20240223 Zoomer - Business Logic Flaw, 爬合约出问题了
+20240223 CompoundUni - Oracle bad price, 爬合约出问题了
+20240223 BlueberryProtocol - logic flaw, 爬合约出问题了
+20240222 SwarmMarkets - lack of validation, 爬合约出问题了
+20240221 DeezNutz 404 - lack of validation, 爬合约出问题了
+20240221 GAIN - bad function implementation, 爬合约出问题了
+20240220 EGGX - reentrancy, 爬合约出问题了
+20240220 EGGX - reentrancy, 读合约出错了
+20240219 RuggedArt - reentrancy, 爬合约出问题了
+20240216 ParticleTrade - lack of validation data, 爬合约出问题了
+20240215 DualPools - precision truncation, 爬合约出问题了
+20240215 Babyloogn - reentrancy, 爬合约出问题了
+20240215 Miner - lack of validation dst address, 爬合约出问题了
+20240125 NBLGAME - Reentrancy, 爬合约出问题了
+20240117 BmiZapper - Arbitrary external call vulnerability, 爬合约出问题了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240110 Freedom - Loss of Precision, 爬合约出问题了
+20240110 Freedom - Loss of Precision, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 16:03:19 2024
+------------------------------------------------------------------------------------------------
+20240903 Penpiexyz_io - Reentrancy and Reward Manipulation, 读合约出错了
+20240816 Zenterest - Price Out Of Date, 读合约出错了
+20240814 NoName - Arbitrary Call, 读合约出错了
+20240813 VOW - Misconfiguration, 读合约出错了
+20240812 iVest - Business logic flaw, 读合约出错了
+20240806 Novax - Price Manipulation, 读合约出错了
+20240801 Convergence - Incorrect input validation, 读合约出错了
+20240724 Spectra_finance - Incorrect input validation, 读合约出错了
+20240723 MEVbot_0xdd7c - Incorrect input validation, 读合约出错了
+20240716 Lifiprotocol - Incorrect input validation, 读合约出错了
+20240714 Minterest - Reentrancy, 读合约出错了
+20240712 DoughFina - Incorrect input validation, 读合约出错了
+20240711 SBT - business logic flaw, 读合约出错了
+20240711 GAX - Lack of access control, 读合约出错了
+20240708 LW - Integer Underflow, 读合约出错了
+20240705 DeFiPlaza - loss of precision, 读合约出错了
+20240703 UnverifiedContr_0x452E25 - lack-of-access-control, 读合约出错了
+20240702 MRP - Reentrancy, 读合约出错了
+20240628 Will - business logic flaw, 读合约出错了
+20240627 APEMAGA - business logic flaw, 读合约出错了
+20240618 INcufi - business logic flaw, 读合约出错了
+20240617 Dyson_money - business logic flaw, 读合约出错了
+20240616 WIFCOIN_ETH - business logic flaw, 读合约出错了
+20240616 Crb2 - business logic flaw, 读合约出错了
+20240611 JokInTheBox - business logic flaw, 读合约出错了
+20240610 Bazaar - Insufficient Permission Check, 读合约出错了
+20240608 YYStoken - Business Logic Flaw, 读合约出错了
+20240606 SteamSwap - Logic Flaw, 读合约出错了
+20240606 MineSTM - Business Logic Flaw, 读合约出错了
+20240604 NCD - Business Logic Flaw, 读合约出错了
+20240601 VeloCore - lack-of-access-control, 读合约出错了
+20240531 Liquiditytokens - Business Logic Flaw, 读合约出错了
+20240531 MixedSwapRouter - Arbitrary Call, 读合约出错了
+20240529 SCROLL - Integer Underflow, 读合约出错了
+20240529 MetaDragon - Lack of Access Control, 读合约出错了
+20240528 Tradeonorion - Business Logic Flaw, 读合约出错了
+20240528 EXcommunity - Business Logic Flaw, 读合约出错了
+20240527 RedKeysCoin - Weak RNG, 读合约出错了
+20240526 NORMIE - Business Logic Flaw, 读合约出错了
+20240522 Burner - sandwich ack, 读合约出错了
+20240516 TCH - Signature Malleability Vulnerability, 读合约出错了
+20240514 Sonne Finance - Precision loss, 读合约出错了
+20240514 PredyFinance - Reentrancy, 读合约出错了
+20240512 TGC - Business Logic Flaw, 读合约出错了
+20240510 GFOX - lack of access control, 读合约出错了
+20240510 TSURU - Insufficient Validation, 读合约出错了
+20240508 GPU - self transfer, 读合约出错了
+20240507 SATURN - Price Manipulation, 读合约出错了
+20240506 OSN - Reward Distribution Problem, 读合约出错了
+20240430 Yield - Business Logic Flaw, 读合约出错了
+20240430 PikeFinance - Uninitialized Proxy, 读合约出错了
+20240427 BNBX - precission loss, 读合约出错了
+20240425 NGFS - Bad Access Control, 读合约出错了
+20240424 XBridge - Logic Flaw, 读合约出错了
+20240424 YIEDL - Input Validation, 读合约出错了
+20240422 Z123 - price manipulation, 读合约出错了
+20240420 Rico - Arbitrary Call, 读合约出错了
+20240419 HedgeyFinance - Logic Flaw, 读合约出错了
+20240417 UnverifiedContr_0x00C409 - unverified external call, 读合约出错了
+20240416 SATX - Logic Flaw, 读合约出错了
+20240416 MARS - Bad Reflection, 读合约出错了
+20240415 GFA - business-logic-flaw, 读合约出错了
+20240415 Chainge - Input Validation, 读合约出错了
+20240414 Hackathon - business logic flaw, 读合约出错了
+20240412 FIL314 - Insufficient Validation And Price Manipulation, 读合约出错了
+20240412 SumerMoney - Reentrancy, 读合约出错了
+20240412 GROKD - lack of access control, 读合约出错了
+20240410 BigBangSwap - precission loss, 读合约出错了
+20240409 UPS - business logic flaw, 读合约出错了
+20240408 SQUID - sandwich attack, 读合约出错了
+20240404 wsm - manipulating price, 读合约出错了
+20240402 HoppyFrogERC - business logic flaw, 读合约出错了
+20240401 ATM - business logic flaw, 读合约出错了
+20240401 OpenLeverage - Reentrancy, 读合约出错了
+20240329 ETHFIN - Price Manipulation, 读合约出错了
+20240329 PrismaFi - Insufficient Validation, 读合约出错了
+20240328 LavaLending - Business Logic Flaw, 读合约出错了
+20240325 ZongZi - Price Manipulation, 读合约出错了
+20240323 CGT - Incorrect Access Control, 读合约出错了
+20240321 SSS - Token Balance Doubles on Transfer to self, 读合约出错了
+20240324 ARK - business logic flaw, 读合约出错了
+20240320 Paraswap - Incorrect Access Control, 读合约出错了
+20240314 MO - business logic flaw, 读合约出错了
+20240313 IT - business logic flaw, 读合约出错了
+20240312 BBT - business logic flaw, 读合约出错了
+20240311 Binemon - precission-loss, 读合约出错了
+20240309 Juice - Business Logic Flaw, 读合约出错了
+20240309 UnizenIO - unverified external call, 读合约出错了
+20240307 GHT - Business Logic Flaw, 读合约出错了
+20240306 ALP - Public internal function, 读合约出错了
+20240306 TGBS - Business Logic Flaw, 读合约出错了
+20240305 Woofi - Price Manipulation, 读合约出错了
+20240228 Seneca - Arbitrary External Call Vulnerability, 读合约出错了
+20240228 SMOOFSStaking - Reentrancy, 读合约出错了
+20240223 Zoomer - Business Logic Flaw, 读合约出错了
+20240223 CompoundUni - Oracle bad price, 读合约出错了
+20240223 BlueberryProtocol - logic flaw, 读合约出错了
+20240222 SwarmMarkets - lack of validation, 读合约出错了
+20240221 DeezNutz 404 - lack of validation, 读合约出错了
+20240221 GAIN - bad function implementation, 读合约出错了
+20240220 EGGX - reentrancy, 读合约出错了
+20240219 RuggedArt - reentrancy, 读合约出错了
+20240216 ParticleTrade - lack of validation data, 读合约出错了
+20240215 DualPools - precision truncation, 读合约出错了
+20240215 Babyloogn - reentrancy, 读合约出错了
+20240215 Miner - lack of validation dst address, 读合约出错了
+20240213 MINER - Price Manipulation, 读合约出错了
+20240211 Game - Reentrancy && Business Logic Flaw, 读合约出错了
+20240210 FILX DN404 - Access Control, 读合约出错了
+20240208 Pandora - interger underflow, 读合约出错了
+20240205 BurnsDefi - Price Manipulation, 读合约出错了
+20240202 ADC - incorrect-access-control, 读合约出错了
+20240201 AffineDeFi - lack of validation userData, 读合约出错了
+20240130 XSIJ - Business Logic Flaw, 读合约出错了
+20240130 MIMSpell - Precission Loss, 读合约出错了
+20240129 PeapodsFinance_exp - Reentrancy, 读合约出错了
+20240128 BarleyFinance - Reentrancy, 读合约出错了
+20240127 CitadelFinance - Price Manipulation, 读合约出错了
+20240125 NBLGAME - Reentrancy, 读合约出错了
+20240122 DAO_SoulMate - Incorrect Access Control, 读合约出错了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240115 Shell_MEV_0xa898 - loss of precision, 读合约出错了
+20240112 SocketGateway - Lack of calldata validation, 读合约出错了
+20240112 WiseLending - Bad HealthFactor Check, 读合约出错了
+20240110 Freedom - Loss of Precision, 读合约出错了
+20240110 LQDX - Unauthorized TransferFrom, 读合约出错了
+20240104 Gamma - Price manipulation, 读合约出错了
+20240102 MIC - Business Logic Flaw, 读合约出错了
+20240102 RadiantCapital - Loss of Precision, 读合约出错了
+20240101 OrbitChain - Incorrect input validation, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 16:04:34 2024
+------------------------------------------------------------------------------------------------
+20240618 INcufi - business logic flaw, 读合约出错了
+20240220 EGGX - reentrancy, 读合约出错了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240110 Freedom - Loss of Precision, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sat Sep  7 16:10:41 2024
+------------------------------------------------------------------------------------------------
+20240618 INcufi - business logic flaw, 读合约出错了
+20240117 BmiZapper - Arbitrary external call vulnerability, 读合约出错了
+20240110 Freedom - Loss of Precision, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:15:07 2024
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:16:57 2024
+------------------------------------------------------------------------------------------------
+20240221 GAIN - bad function implementation获取解析失败
+20240223 BlueberryProtocol - logic flaw获取解析失败
+20240223 CompoundUni - Oracle bad price获取解析失败
+20240228 SMOOFSStaking - Reentrancy获取解析失败
+20240306 ALP - Public internal function获取解析失败
+20240306 TGBS - Business Logic Flaw获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:18:37 2024
+------------------------------------------------------------------------------------------------
+20240221 GAIN - bad function implementation获取解析失败
+20240223 BlueberryProtocol - logic flaw获取解析失败
+20240223 CompoundUni - Oracle bad price获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:19:34 2024
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:20:31 2024
+------------------------------------------------------------------------------------------------
+20240223 CompoundUni - Oracle bad price获取解析失败
+20240228 SMOOFSStaking - Reentrancy获取解析失败
+20240306 ALP - Public internal function获取解析失败
+20240306 TGBS - Business Logic Flaw获取解析失败
+20240309 UnizenIO - unverified external call获取解析失败
+20240312 BBT - business logic flaw获取解析失败
+20240313 IT - business logic flaw获取解析失败
+20240314 MO - business logic flaw获取解析失败
+20240321 SSS - Token Balance Doubles on Transfer to self获取解析失败
+20240323 CGT - Incorrect Access Control获取解析失败
+20240324 ARK - business logic flaw获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:25:39 2024
+------------------------------------------------------------------------------------------------
+20240228 SMOOFSStaking - Reentrancy获取解析失败
+20240306 ALP - Public internal function获取解析失败
+20240306 TGBS - Business Logic Flaw获取解析失败
+20240309 UnizenIO - unverified external call获取解析失败
+20240312 BBT - business logic flaw获取解析失败
+20240313 IT - business logic flaw获取解析失败
+20240314 MO - business logic flaw获取解析失败
+20240321 SSS - Token Balance Doubles on Transfer to self获取解析失败
+20240323 CGT - Incorrect Access Control获取解析失败
+20240324 ARK - business logic flaw获取解析失败
+20240325 ZongZi - Price Manipulation获取解析失败
+20240328 LavaLending - Business Logic Flaw获取解析失败
+20240329 PrismaFi - Insufficient Validation获取解析失败
+20240401 ATM - business logic flaw获取解析失败
+20240401 OpenLeverage - Reentrancy获取解析失败
+20240402 HoppyFrogERC - business logic flaw获取解析失败
+20240408 SQUID - sandwich attack获取解析失败
+20240409 UPS - business logic flaw获取解析失败
+20240410 BigBangSwap - precission loss获取解析失败
+20240412 GROKD - lack of access control获取解析失败
+20240412 SumerMoney - Reentrancy获取解析失败
+20240414 Hackathon - business logic flaw获取解析失败
+20240415 Chainge - Input Validation获取解析失败
+20240416 MARS - Bad Reflection获取解析失败
+20240416 SATX - Logic Flaw获取解析失败
+20240417 UnverifiedContr_0x00C409 - unverified external call获取解析失败
+20240419 HedgeyFinance - Logic Flaw获取解析失败
+20240420 Rico - Arbitrary Call获取解析失败
+20240422 Z123 - price manipulation获取解析失败
+20240425 NGFS - Bad Access Control获取解析失败
+20240427 BNBX - precission loss获取解析失败
+20240430 PikeFinance - Uninitialized Proxy获取解析失败
+20240430 Yield - Business Logic Flaw获取解析失败
+20240506 OSN - Reward Distribution Problem获取解析失败
+20240507 SATURN - Price Manipulation获取解析失败
+20240508 GPU - self transfer获取解析失败
+20240510 GFOX - lack of access control获取解析失败
+20240512 TGC - Business Logic Flaw获取解析失败
+20240514 PredyFinance - Reentrancy获取解析失败
+20240516 TCH - Signature Malleability Vulnerability获取解析失败
+20240522 Burner - sandwich ack获取解析失败
+20240526 NORMIE - Business Logic Flaw获取解析失败
+20240528 EXcommunity - Business Logic Flaw获取解析失败
+20240528 Tradeonorion - Business Logic Flaw获取解析失败
+20240529 MetaDragon - Lack of Access Control获取解析失败
+20240529 SCROLL - Integer Underflow获取解析失败
+20240531 Liquiditytokens - Business Logic Flaw获取解析失败
+20240531 MixedSwapRouter - Arbitrary Call获取解析失败
+20240601 VeloCore - lack-of-access-control获取解析失败
+20240604 NCD - Business Logic Flaw获取解析失败
+20240606 MineSTM - Business Logic Flaw获取解析失败
+20240606 SteamSwap - Logic Flaw获取解析失败
+20240608 YYStoken - Business Logic Flaw获取解析失败
+20240610 Bazaar - Insufficient Permission Check获取解析失败
+20240611 JokInTheBox - business logic flaw获取解析失败
+20240616 WIFCOIN_ETH - business logic flaw获取解析失败
+20240617 Dyson_money - business logic flaw获取解析失败
+20240618 INcufi - business logic flaw获取解析失败
+20240627 APEMAGA - business logic flaw获取解析失败
+20240628 Will - business logic flaw获取解析失败
+20240702 MRP - Reentrancy获取解析失败
+20240703 UnverifiedContr_0x452E25 - lack-of-access-control获取解析失败
+20240705 DeFiPlaza - loss of precision获取解析失败
+20240708 LW - Integer Underflow获取解析失败
+20240711 GAX - Lack of access control获取解析失败
+20240711 SBT - business logic flaw获取解析失败
+20240712 DoughFina - Incorrect input validation获取解析失败
+20240714 Minterest - Reentrancy获取解析失败
+20240716 Lifiprotocol - Incorrect input validation获取解析失败
+20240723 MEVbot_0xdd7c - Incorrect input validation获取解析失败
+20240724 Spectra_finance - Incorrect input validation获取解析失败
+20240801 Convergence - Incorrect input validation获取解析失败
+20240806 Novax - Price Manipulation获取解析失败
+20240812 iVest - Business logic flaw获取解析失败
+20240813 VOW - Misconfiguration获取解析失败
+20240814 NoName - Arbitrary Call获取解析失败
+20240816 Zenterest - Price Out Of Date获取解析失败
+20240903 Penpiexyz_io - Reentrancy and Reward Manipulation获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:27:02 2024
+------------------------------------------------------------------------------------------------
+20240228 SMOOFSStaking - Reentrancy获取解析失败
+20240306 ALP - Public internal function获取解析失败
+20240306 TGBS - Business Logic Flaw获取解析失败
+20240309 UnizenIO - unverified external call获取解析失败
+20240312 BBT - business logic flaw获取解析失败
+20240313 IT - business logic flaw获取解析失败
+20240314 MO - business logic flaw获取解析失败
+20240321 SSS - Token Balance Doubles on Transfer to self获取解析失败
+20240323 CGT - Incorrect Access Control获取解析失败
+20240324 ARK - business logic flaw获取解析失败
+20240325 ZongZi - Price Manipulation获取解析失败
+20240328 LavaLending - Business Logic Flaw获取解析失败
+20240329 PrismaFi - Insufficient Validation获取解析失败
+20240401 ATM - business logic flaw获取解析失败
+20240401 OpenLeverage - Reentrancy获取解析失败
+20240402 HoppyFrogERC - business logic flaw获取解析失败
+20240408 SQUID - sandwich attack获取解析失败
+20240409 UPS - business logic flaw获取解析失败
+20240410 BigBangSwap - precission loss获取解析失败
+20240412 GROKD - lack of access control获取解析失败
+20240412 SumerMoney - Reentrancy获取解析失败
+20240414 Hackathon - business logic flaw获取解析失败
+20240415 Chainge - Input Validation获取解析失败
+20240416 MARS - Bad Reflection获取解析失败
+20240416 SATX - Logic Flaw获取解析失败
+20240417 UnverifiedContr_0x00C409 - unverified external call获取解析失败
+20240419 HedgeyFinance - Logic Flaw获取解析失败
+20240420 Rico - Arbitrary Call获取解析失败
+20240422 Z123 - price manipulation获取解析失败
+20240425 NGFS - Bad Access Control获取解析失败
+20240427 BNBX - precission loss获取解析失败
+20240430 PikeFinance - Uninitialized Proxy获取解析失败
+20240430 Yield - Business Logic Flaw获取解析失败
+20240506 OSN - Reward Distribution Problem获取解析失败
+20240507 SATURN - Price Manipulation获取解析失败
+20240508 GPU - self transfer获取解析失败
+20240510 GFOX - lack of access control获取解析失败
+20240512 TGC - Business Logic Flaw获取解析失败
+20240514 PredyFinance - Reentrancy获取解析失败
+20240516 TCH - Signature Malleability Vulnerability获取解析失败
+20240522 Burner - sandwich ack获取解析失败
+20240526 NORMIE - Business Logic Flaw获取解析失败
+20240528 EXcommunity - Business Logic Flaw获取解析失败
+20240528 Tradeonorion - Business Logic Flaw获取解析失败
+20240529 MetaDragon - Lack of Access Control获取解析失败
+20240529 SCROLL - Integer Underflow获取解析失败
+20240531 Liquiditytokens - Business Logic Flaw获取解析失败
+20240531 MixedSwapRouter - Arbitrary Call获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:27:56 2024
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:29:00 2024
+------------------------------------------------------------------------------------------------
+20240312 BBT - business logic flaw获取解析失败
+20240313 IT - business logic flaw获取解析失败
+20240314 MO - business logic flaw获取解析失败
+20240321 SSS - Token Balance Doubles on Transfer to self获取解析失败
+20240323 CGT - Incorrect Access Control获取解析失败
+20240324 ARK - business logic flaw获取解析失败
+20240325 ZongZi - Price Manipulation获取解析失败
+20240328 LavaLending - Business Logic Flaw获取解析失败
+20240329 PrismaFi - Insufficient Validation获取解析失败
+20240401 ATM - business logic flaw获取解析失败
+20240401 OpenLeverage - Reentrancy获取解析失败
+20240402 HoppyFrogERC - business logic flaw获取解析失败
+20240408 SQUID - sandwich attack获取解析失败
+20240409 UPS - business logic flaw获取解析失败
+20240410 BigBangSwap - precission loss获取解析失败
+20240412 GROKD - lack of access control获取解析失败
+20240412 SumerMoney - Reentrancy获取解析失败
+20240414 Hackathon - business logic flaw获取解析失败
+20240415 Chainge - Input Validation获取解析失败
+20240416 MARS - Bad Reflection获取解析失败
+20240416 SATX - Logic Flaw获取解析失败
+20240417 UnverifiedContr_0x00C409 - unverified external call获取解析失败
+20240419 HedgeyFinance - Logic Flaw获取解析失败
+20240420 Rico - Arbitrary Call获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:32:51 2024
+------------------------------------------------------------------------------------------------
+20240415 Chainge - Input Validation获取解析失败
+20240529 SCROLL - Integer Underflow获取解析失败
+20240611 JokInTheBox - business logic flaw获取解析失败
+20240616 WIFCOIN_ETH - business logic flaw获取解析失败
+20240617 Dyson_money - business logic flaw获取解析失败
+20240618 INcufi - business logic flaw获取解析失败
+20240627 APEMAGA - business logic flaw获取解析失败
+20240628 Will - business logic flaw获取解析失败
+20240702 MRP - Reentrancy获取解析失败
+20240703 UnverifiedContr_0x452E25 - lack-of-access-control获取解析失败
+20240705 DeFiPlaza - loss of precision获取解析失败
+20240708 LW - Integer Underflow获取解析失败
+20240711 GAX - Lack of access control获取解析失败
+20240711 SBT - business logic flaw获取解析失败
+20240712 DoughFina - Incorrect input validation获取解析失败
+20240714 Minterest - Reentrancy获取解析失败
+20240716 Lifiprotocol - Incorrect input validation获取解析失败
+20240723 MEVbot_0xdd7c - Incorrect input validation获取解析失败
+20240724 Spectra_finance - Incorrect input validation获取解析失败
+20240801 Convergence - Incorrect input validation获取解析失败
+20240806 Novax - Price Manipulation获取解析失败
+20240812 iVest - Business logic flaw获取解析失败
+20240813 VOW - Misconfiguration获取解析失败
+20240814 NoName - Arbitrary Call获取解析失败
+20240816 Zenterest - Price Out Of Date获取解析失败
+20240903 Penpiexyz_io - Reentrancy and Reward Manipulation获取解析失败
+
+
+------------------------------------------------------------------------------------------------
+TIME: Sun Sep  8 19:37:34 2024
+------------------------------------------------------------------------------------------------
+20240415 Chainge - Input Validation获取解析失败
+20240529 SCROLL - Integer Underflow获取解析失败
+20240611 JokInTheBox - business logic flaw获取解析失败
+20240616 WIFCOIN_ETH - business logic flaw获取解析失败
+20240617 Dyson_money - business logic flaw获取解析失败
+20240618 INcufi - business logic flaw获取解析失败
+20240627 APEMAGA - business logic flaw获取解析失败
+20240628 Will - business logic flaw获取解析失败
+20240702 MRP - Reentrancy获取解析失败
+20240703 UnverifiedContr_0x452E25 - lack-of-access-control获取解析失败
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+TIME: Tue Oct 29 20:50:39 2024
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+TIME: Tue Oct 29 20:51:15 2024
+------------------------------------------------------------------------------------------------
+20241026 CompoundFork - Flashloan attack, 爬合约出问题了
+20241026 CompoundFork - Flashloan attack, 读合约出错了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 爬合约出问题了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Tue Oct 29 21:02:47 2024
+------------------------------------------------------------------------------------------------
+20241026 CompoundFork - Flashloan attack, 爬合约出问题了
+20241026 CompoundFork - Flashloan attack, 读合约出错了
+20241005 AIZPTToken - Wrong Price Calculation, 爬合约出问题了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 爬合约出问题了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 读合约出错了
+
+
+------------------------------------------------------------------------------------------------
+TIME: Wed Oct 30 20:12:55 2024
+------------------------------------------------------------------------------------------------
+20241026 CompoundFork - Flashloan attack, 爬合约出问题了
+20241026 CompoundFork - Flashloan attack, 读合约出错了
+20241010 HYDT - Oracle Price Manipulation, 爬合约出问题了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 爬合约出问题了
+20240926 Bedrock_DeFi - Swap ETH/BTC 1/1 in mint function, 读合约出错了

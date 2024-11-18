@@ -1,0 +1,5 @@
+.@DefiPlaza have been hacked for nearly $200k. Luckily an MEV-bot front-runned the original attacker.
+
+https://app.blocksec.com/explorer/tx/eth/0xa245deda8553c6e4c575baff9b50ef35abf4c8f990f8f36897696f896f240e3a…
+
+Original attacker: https://etherscan.io/address/0x14b362d2e38250604f21a334d71c13e2ed478467…翻译帖子

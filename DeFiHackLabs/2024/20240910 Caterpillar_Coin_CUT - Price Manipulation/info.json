@@ -1,0 +1,11 @@
+{
+    "name": "Caterpillar_Coin_CUT",
+    "time": "20240910",
+    "loss": "~1.4M USD",
+    "type": "Price Manipulation",
+    "attack contract": "0x87EFb39a716860eCd2324A944Cb40EC5128e56Dd",
+    "attacker": "0x5766d1F03378f50c7c981c014Ed5e5A8124f38A4",
+    "vulnerable contract": "0x7057f3b0f4d0649b428f0d8378a8a0e7d21d36a7",
+    "tx": "0x2c123d08ca3d50c4b875c0b5de1b5c85d0bf9979dffbf87c48526e3a67396827",
+    "information": "https://www.certik.com/zh-CN/resources/blog/caterpillar-coin-cut-token-incident-analysis"
+}

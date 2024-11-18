@@ -1,0 +1,1 @@
+Every attack contains two transactions. In first tx, he creates a margin trade and a small borrow position, and liquidates it. The root cause of this hacking is that it didn't process liquidation correctly. In "liquidate" function, it calculates collateral and borrow amount and翻译帖子

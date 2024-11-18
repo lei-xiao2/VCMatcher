@@ -1,0 +1,3 @@
+Yesterday's complete hack of Wise Lending was far more complex than reported. Very worth examining.
+
+The protocol had added explicit defenses against this style of attack, which the attack then either bypassed or used against the protocol.     1/21翻译帖子

@@ -1,0 +1,1 @@
+Today’s LiFi hack happed because its internal swap() function would call out to any address using whatever message the attacker passed in. This allowed the attacker to have the contract transferFrom() out the funds from anyone who had approved the contract.翻译帖子

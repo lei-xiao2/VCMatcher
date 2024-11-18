@@ -1,0 +1,7 @@
+$48M+ Exploit ALERT (AND COUNTING)! http://CUBE3.AI detected transactions that compromised ClaimCampaigns, a @hedgeyfinance  smart contract. The attack is ongoing across multiple chains. 
+
+The attacker drained an initial $1.3M USDC by exploiting a business logic flaw in the ClaimCampaigns contract, using a flash loan from Balancer.  
+
+We detected the exploit contract seconds after deployment, 5 minutes before the first attack.
+Stay tuned for a detailed analysis of the exploit 
+#CryptoScam #ScamAlert #Cybersecurity #Exploit #HedgeyFinance #blockchainsecurity翻译帖子

@@ -1,0 +1,68 @@
+
+https://bscscan.com/address/0xb7d0a1adafa3e9e8d8e244c20b6277bee17a09b6#code|--|20240606 SteamSwap - Logic Flaw
+https://etherscan.io/address/0x50ce56A3239671Ab62f185704Caedf626352741e#code|--|20240223 CompoundUni - Oracle bad price
+https://blastscan.io/address/0xefb4e3Cc438eF2854727A7Df0d0baf844484EdaB#code|--|20240610 Bazaar - Insufficient Permission Check
+https://bscscan.com/address/0x9BDF251435cBC6774c7796632e9C80B233055b93#code|--|20240507 SATURN - Price Manipulation
+https://etherscan.io/address/0xBc452fdC8F851d7c5B72e1Fe74DFB63bb793D511#code|--|20240419 HedgeyFinance - Logic Flaw
+https://bscscan.com/token/0x6beee2b57b064eac5f432fc19009e3e78734eabc#code|--|20241011 P719Token - Price Manipulation Inflate Attack
+https://bscscan.com/address/0xa898b78b7cbbabacf9d179c4c46c212c0ac66f46|--|20240115 Shell_MEV_0xa898 - loss of precision
+https://arbiscan.io/address/0x6700b021a8bcfae25a2493d16d7078c928c13151|--|20241002 LavaLending - Price Manipulation
+https://etherscan.io/address/0x2b9dc65253c035eb21778cb3898eab5a0ada0cce|--|20240222 SwarmMarkets - lack of validation
+https://etherscan.io/address/0x2c7112245fc4af701ebf90399264a7e89205dad4#code|--|20240210 FILX DN404 - Access Control
+https://bscscan.com/address/0x17bd2e09fa4585c15749f40bb32a6e3db58522ba#code|--|20240329 ETHFIN - Price Manipulation
+https://etherscan.io/address/0x732276168b421d4792e743711e1a48172ea574a2|--|20240215 Miner - lack of validation dst address
+https://arbiscan.io/address/0x58637aaac44e2a2f190d9e1976e236d86d691542|--|20240531 MixedSwapRouter - Arbitrary Call
+https://bscscan.com/address/0x389a9ae29fbe53cca7bc8b7a4d9d0a04078e1c24|--|20240427 BNBX - precission loss
+https://bscscan.com/address/0xa45d4359246dbd523ab690bef01da06b07450030|--|20240410 BigBangSwap - precission loss
+https://etherscan.io/address/0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a|--|20240101 OrbitChain - Incorrect input validation
+0xc6a8c02dd5a3dd1616ec072bfc7c9d3df9682a63|--|20240924-MARA---price-manipulation
+https://etherscan.io/address/0x37e49bf3749513a02fa535f0cbc383796e8107e4|--|20240112 WiseLending - Bad HealthFactor Check
+https://bscscan.com/address/0x2ba9d4a8c41c60b71ff7df2c3f54b008644b954e#code|--|20240213 MINER - Price Manipulation
+https://arbiscan.io/address/0x7b8b944ab2f24c829504a7a6d70fce5298f2147c#code|--|20240514 PredyFinance - Reentrancy
+https://etherscan.io/address/0xb57e874082417b66877429481473cf9fcd8e0b8a#code|--|20240221 DeezNutz 404 - lack of validation
+https://bscscan.com/address/0x5d78cfc8732fd328015c9b73699de9556ef06e8e#code|--|20240516 TCH - Signature Malleability Vulnerability
+https://etherscan.io/address/0x354cca2f55dde182d36fe34d673430e226a3cb8c#code|--|20240424 XBridge - Logic Flaw
+https://etherscan.io/address/0x8584ddbd1e28bca4bc6fb96bafe39f850301940e#code|--|20240309 Juice - Business Logic Flaw
+https://optimistic.etherscan.io/address/0xe3b81318b1b6776f0877c3770afddff97b9f5fe5|--|20240514 Sonne Finance - Precision loss
+https://bscscan.com/address/0xf436f8fe7b26d87eb74e5446acec2e8ad4075e47|--|20240401 OpenLeverage - Reentrancy
+https://bscscan.com/address/0x5e5e28029ef37fc97ffb763c4ac1f532bbd4c7a2#code|--|20240215 DualPools - precision truncation
+https://bscscan.com/address/0xe56842ed550ff2794f010738554db45e60730371|--|20240311 Binemon - precission-loss
+https://bscscan.com/address/0xb38c2d2d6a168d41aa8eb4cead47e01badbdcf57#code|--|20240102 MIC - Business Logic Flaw
+https://etherscan.io/address/0xe51D3dE9b81916D383eF97855C271250852eC7B7#code|--|20240529 SCROLL - Integer Underflow
+https://bscscan.com/address/0xee6De822159765daf0Fd72d71529d7ab026ec2f2#code|--|20240616 Crb2 - business logic flaw
+https://etherscan.io/address/0xBBBBBbbBBb9cC5e90e3b3Af64bdAF62C37EEFFCb#code|--|20241013 MorphoBlue - Overpriced Asset in Oracle
+https://bscscan.com/address/0x71e3056aa4985de9f5441f079e6c74454a3c95f0#code|--|20240527 RedKeysCoin - Weak RNG
+https://etherscan.io/address/0xf10bc5be84640236c71173d1809038af4ee19002#code|--|20240926 OnyxDAO - Fake Market
+https://basescan.org/address/0x75Ac62EA5D058A7F88f0C3a5F8f73195277c93dA#code|--|20240510 TSURU - Insufficient Validation
+0x7057f3b0f4d0649b428f0d8378a8a0e7d21d36a7|--|20240910 Caterpillar_Coin_CUT - Price Manipulation
+https://etherscan.io/address/0xe3a0bc3483ae5a04db7ef2954315133a6f7d228e#code|--|20240814 NoName - Arbitrary Call
+https://bscscan.com/address/0xc0afd0e40bb3dcaebd9451aa5c319b745bf792b4|--|20240404 wsm - manipulating price
+https://arbiscan.io/address/0x7746872c6892bcfb4254390283719f2bd2d4da76#code|--|20240328 LavaLending - Business Logic Flaw
+https://etherscan.io/address/0xCC5fDA5e3cA925bd0bb428C8b2669496eE43067e#code|--|20240112 SocketGateway - Lack of calldata validation
+https://etherscan.io/address/0xffadb0bba4379dfabfb20ca6823f6ec439429ec2#code|--|20240223 BlueberryProtocol - logic flaw
+https://arbiscan.io/address/0x1F1Ca4e8236CD13032653391dB7e9544a6ad123E#code|--|20240104 Gamma - Price manipulation
+https://bscscan.com/address/0x80a0d7a6fd2a22982ce282933b384568e5c852bf#code|--|20240415 Chainge - Input Validation
+0xF2c8e860ca12Cde3F3195423eCf54427A4f30916|--|20240913 OTSeaStaking - Logic Flaw
+https://bscscan.com/address/0xfd80a436da2f4f4c42a5dbfa397064cfeb7d9508#code|--|20240416 SATX - Logic Flaw
+https://bscscan.com/address/0xa608985f5b40cdf6862bec775207f84280a91e3a#code|--|20240425 NGFS - Bad Access Control
+https://etherscan.io/address/0x43dc865e916914fd93540461fde124484fbf8faa#code|--|20241022 Erc20transfer - Access Control
+https://arbiscan.io/address/0xeff23b4be1091b53205e35f3afcd9c7182bf3062|--|20240305 Woofi - Price Manipulation
+https://etherscan.io/address/0xFb35DE57B117FA770761C1A344784075745F84F9|--|20240220 EGGX - reentrancy
+https://etherscan.io/address/0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb#code|--|20240813 VOW - Misconfiguration
+https://bscscan.com/address/0xe8a290c6fc6fa6c0b79c9cfae1878d195aeb59af#code|--|20240412 FIL314 - Insufficient Validation And Price Manipulation
+https://etherscan.io/address/0xfc7599cffea9de127a9f9c748ccb451a34d2f063#code|--|20240430 PikeFinance - Uninitialized Proxy
+https://bscscan.com/address/0x971d08bba900230298add23e61e04b04226b5073|--|20240215 Babyloogn - reentrancy
+https://bscscan.com/address/0xbe779d420b7d573c08eee226b9958737b6218888|--|20241005 AIZPTToken - Wrong Price Calculation
+0x564d4126af2b195ffaa7fb470ed658b1d9d07a5|--|20240923 Bankroll_Network - Incorrect input validation
+https://etherscan.io/address/0x56ff4afd909aa66a1530fe69bf94c74e6d44500c|--|20240627 APEMAGA - business logic flaw
+https://etherscan.io/address/0xfe380fe1db07e531e3519b9ae3ea9f7888ce20c6|--|20240219 RuggedArt - reentrancy
+/address/https://basescan.org/address/0x23811c17bac40500decd5fb92d4feb972ae1e607#code|--|20240412 SumerMoney - Reentrancy
+https://arbiscan.io/address/0x598c6c1cd9459f882530fc9d7da438cb74c6cb3b#code|--|20240420 Rico - Arbitrary Call
+https://bscscan.com/address/0xb000f121A173D7Dd638bb080fEe669a2F3Af9760|--|20240422 Z123 - price manipulation
+https://etherscan.io/address/0x47c4b3144de2c87a458d510c0c0911d1903d1686#code|--|20240510 GFOX - lack of access control
+(Unizen:Trade Aggregator Proxy) https|--|20240309 UnizenIO - unverified external call
+https://etherscan.io/address/0x047D41F2544B7F63A8e991aF2068a363d210d6Da|--|20240926 Bedrock_DeFi - Swap ETHBTC 11 in mint function
+https://bscscan.com/address/0xdb4b73df2f6de4afcd3a883efe8b7a4b0763822b|--|20240711 GAX - Lack of access control
+https://etherscan.io/address/0x18775475f50557b96C63E8bbf7D75bFeB412082D#code|--|20241001 FireToken - Pair Manipulation With Transfer Function
+https://arbiscan.io/address/0x3b4ffd93ce5fcf97e61aa8275ec241c76cc01a47#code|--|20240430 Yield - Business Logic Flaw
+https://etherscan.io/address/0xe4764f9cd8ecc9659d3abf35259638b20ac536e4|--|20240216 ParticleTrade - lack of validation data
