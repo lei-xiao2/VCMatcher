@@ -1,5 +1,7 @@
 """Global configuration variables for running program"""
 
+TOOL_DIR = None
+
 PROJECT_DIR = None
 
 EVENT = None

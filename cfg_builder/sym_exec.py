@@ -844,7 +844,7 @@ def full_sym_exec():
         print(func_sigs)
 
         #回到tool.py的目录
-        os.chdir("/mnt/sdb/home/xiaolei/VCmatcher")
+        os.chdir(global_params.TOOL_DIR)
         event_func_dir = {}
         temp = {}
         temp["source file"] = g_source_file

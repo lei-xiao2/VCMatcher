@@ -403,6 +403,7 @@ def main():
     if args.address:
         global_params.CONTRACT_ADDRESS = args.address
 
+    global_params.TOOL_DIR = os.getcwd()
     global_params.TARGET_CONTRACTS = args.target_contracts
     global_params.TARGET_FUNCTION = args.target_fselector
 
